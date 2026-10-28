@@ -1,40 +1,40 @@
 [
   {
-    "Name": "Xbox Series X",
-    "Price": 799.99,
-    "Tags": [
+    "name": "Xbox Series X",
+    "price": 799.99,
+    "tags": [
       "Eletronics",
       "VideoGame"
     ]
   },
   {
-    "Name": "Playstation 5",
-    "Price": 699.99,
-    "Tags": [
+    "name": "Playstation 5",
+    "price": 699.99,
+    "tags": [
       "Eletronics",
       "VideoGame"
     ]
   },
   {
-    "Name": "Smartphone",
-    "Price": 1000.00,
-    "Tags": [
+    "name": "Smartphone",
+    "price": 1000.00,
+    "tags": [
       "Eletronics",
       "Mobile"
     ]
   },
   {
-    "Name": "Bible",
-    "Price": 699.99,
-    "Tags": [
+    "name": "Bible",
+    "price": 699.99,
+    "tags": [
       "Gospel Items",
       "Book"
     ]
   },
 {
-    "Name": "Headset Astro A10",
-    "Price": 59.99,
-    "Tags": [
+    "name": "Headset Astro A10",
+    "price": 59.99,
+    "tags": [
       "Eletronics",
       "headset"
     ]
