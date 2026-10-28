@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Xbox Series X",
+    "Price": 799.99,
+    "Tags": [
+      "Eletronics",
+      "VideoGame"
+    ]
+  },
+  {
+    "Name": "Playstation 5",
+    "Price": 699.99,
+    "Tags": [
+      "Eletronics",
+      "VideoGame"
+    ]
+  },
+  {
+    "Name": "Smartphone",
+    "Price": 1000.00,
+    "Tags": [
+      "Eletronics",
+      "Mobile"
+    ]
+  },
+  {
+    "Name": "Bible",
+    "Price": 699.99,
+    "Tags": [
+      "Gospel Items",
+      "Book"
+    ]
+  },
+{
+    "Name": "Headset Astro A10",
+    "Price": 59.99,
+    "Tags": [
+      "Eletronics",
+      "headset"
+    ]
+  }
+]
